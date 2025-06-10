@@ -188,7 +188,7 @@ patience      = 10
 </pre>
 
 <b>RGB Color map</b><br>
-Specifed rgb color map dict for Breast-Cancer-Cell 8 classes.<br>
+Specifed rgb color map dict for Breast-Cancer-Cell 3 classes.<br>
 <pre>
 [mask]
 mask_datatyoe    = "categorized"
